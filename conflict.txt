@@ -1,1 +1,5 @@
+
 This is branch B's change
+
+This is branch A's change
+ 
